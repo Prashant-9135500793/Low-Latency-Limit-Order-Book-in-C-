@@ -1,0 +1,6 @@
+.git
+build
+build-*
+out
+*.tar.gz
+*.journal

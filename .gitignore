@@ -1,0 +1,11 @@
+/build/
+/build-*/
+/out/
+*.o
+*.obj
+*.dat
+*.journal
+compile_commands.json
+.cache/
+*.log
+.DS_Store
